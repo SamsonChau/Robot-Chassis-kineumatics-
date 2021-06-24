@@ -1,0 +1,106 @@
+-----------Center of Rotation located at Center of Geometry---------------------
+
+omni_kinematics build 2013-11-12_1125pm
+
+toe_in=30.000000 degrees
+trackwidth=16.000000
+wheelbase=24.500000
+
+Xrotate=0.000000
+Yrotate=0.000000
+
+FL=13.053203
+FR=-13.053203
+RR=-13.053203
+RL=13.053203
+
+FL=1.000000
+FR=-1.000000
+RR=-1.000000
+RL=1.000000
+
+-----------Center of Rotation located Midway between front wheels---------------
+
+omni_kinematics build 2013-11-12_1125pm
+
+toe_in=30.000000 degrees
+trackwidth=16.000000
+wheelbase=24.500000
+
+Xrotate=0.000000
+Yrotate=12.250000
+
+FL=6.928203
+FR=-6.928203
+RR=-19.178203
+RL=19.178203
+
+FL=0.361254
+FR=-0.361254
+RR=-1.000000
+RL=1.000000
+
+-----------Center of Rotation located at FR wheel-------------------------------
+
+omni_kinematics build 2013-11-12_1125pm
+
+toe_in=30.000000 degrees
+trackwidth=16.000000
+wheelbase=24.500000
+
+Xrotate=8.000000
+Yrotate=12.250000
+
+FL=13.856406
+FR=-0.000000
+RR=-12.250000
+RL=26.106406
+
+FL=0.530767
+FR=-0.000000
+RR=-0.469233
+RL=1.000000
+
+-----------Center of Rotation located at bumper---------------------------------
+
+omni_kinematics build 2013-11-12_1125pm
+
+toe_in=30.000000 degrees
+trackwidth=16.000000
+wheelbase=24.500000
+
+Xrotate=14.500000
+Yrotate=19.000000
+
+FL=16.110572
+FR=9.004165
+RR=-9.995835
+RL=35.110572
+
+FL=0.458852
+FR=0.256452
+RR=-0.284696
+RL=1.000000
+
+-----------Center of Rotation located at intersection of Right wheel planes-----
+
+omni_kinematics build 2013-11-12_1125pm
+
+toe_in=30.000000 degrees
+trackwidth=16.000000
+wheelbase=24.500000
+
+Xrotate=15.073000
+Yrotate=0.000000
+
+FL=26.106804
+FR=0.000398
+RR=0.000398
+RL=26.106804
+
+FL=1.000000
+FR=0.000015
+RR=0.000015
+RL=1.000000
+
+Press any key to continue . . . 
